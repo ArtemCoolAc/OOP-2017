@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Testing.cpp
+gtestd.lib(gtest-all.obj) : warning LNK4099: "gtest.pdb" PDB не найден с "gtestd.lib(gtest-all.obj)" или на "C:\Users\HP\Desktop\C++\Lab3v\Library\Debug\gtest.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  Testing.vcxproj -> C:\Users\HP\Desktop\C++\Lab3v\Library\Debug\Testing.exe
+  Testing.vcxproj -> C:\Users\HP\Desktop\C++\Lab3v\Library\Debug\Testing.pdb (Partial PDB)

@@ -1,0 +1,8 @@
+﻿  Application.cpp
+c:\users\hp\desktop\lab3\library\application\application.cpp(70): warning C4101: length: неиспользованная локальная переменная
+c:\users\hp\desktop\lab3\library\application\application.cpp(87): warning C4101: length: неиспользованная локальная переменная
+c:\users\hp\desktop\lab3\library\application\application.cpp(110): warning C4101: length: неиспользованная локальная переменная
+c:\users\hp\desktop\lab3\library\application\application.cpp(137): warning C4101: length: неиспользованная локальная переменная
+c:\users\hp\desktop\lab3\library\application\application.cpp(159): warning C4101: length: неиспользованная локальная переменная
+  Application.vcxproj -> C:\Users\HP\Desktop\Lab3\Library\Debug\Application.exe
+  Application.vcxproj -> C:\Users\HP\Desktop\Lab3\Library\Debug\Application.pdb (Partial PDB)

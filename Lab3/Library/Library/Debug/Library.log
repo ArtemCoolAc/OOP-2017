@@ -1,0 +1,4 @@
+﻿  Diagram.cpp
+c:\users\hp\desktop\lab3\library\library\diagram.cpp(254): warning C4101: k: неиспользованная локальная переменная
+c:\users\hp\desktop\lab3\library\library\diagram.cpp(331): warning C4101: k: неиспользованная локальная переменная
+  Library.vcxproj -> C:\Users\HP\Desktop\Lab3\Library\Debug\Library.lib

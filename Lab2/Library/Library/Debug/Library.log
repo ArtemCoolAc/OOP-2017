@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  lemniscate.cpp
+c:\users\hp\desktop\c++\lab2\library\library\lemniscate.cpp(15): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\hp\desktop\c++\lab2\library\library\lemniscate.cpp(16): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\hp\desktop\c++\lab2\library\library\lemniscate.cpp(39): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\hp\desktop\c++\lab2\library\library\lemniscate.cpp(113): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\hp\desktop\c++\lab2\library\library\lemniscate.cpp(121): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\hp\desktop\c++\lab2\library\library\lemniscate.cpp(127): warning C4172: возвращение адреса локальной или временной переменной : num
+  Library.vcxproj -> C:\Users\HP\Desktop\C++\Lab2\Library\Debug\Library.lib

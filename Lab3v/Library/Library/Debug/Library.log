@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Library.cpp
+  Diagram.cpp
+c:\users\hp\desktop\c++\lab3v\library\library\diagram.cpp(32): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\hp\desktop\c++\lab3v\library\library\diagram.cpp(258): warning C4018: >: несоответствие типов со знаком и без знака
+  Создание кода...
+  Library.vcxproj -> C:\Users\HP\Desktop\C++\Lab3v\Library\Debug\Library.lib

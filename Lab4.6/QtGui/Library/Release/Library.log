@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  Armament_Description.cpp
+  Convoy.cpp
+Convoy.cpp(306): warning C4101: exp: неиспользованная локальная переменная
+  Guard.cpp
+  Library.cpp
+  Person.cpp
+  Ship.cpp
+  Table.cpp
+  Transport.cpp
+  Warship.cpp
+  Создание кода
+  All 215 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Library.vcxproj -> C:\Users\HP\Desktop\C++\Lab4.6\QtGui\Release\Library.exe
+  Library.vcxproj -> C:\Users\HP\Desktop\C++\Lab4.6\QtGui\Release\Library.pdb (Full PDB)

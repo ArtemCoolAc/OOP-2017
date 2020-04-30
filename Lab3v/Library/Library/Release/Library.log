@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  Diagram.cpp
+Diagram.cpp(32): warning C4018: <: несоответствие типов со знаком и без знака
+Diagram.cpp(258): warning C4018: >: несоответствие типов со знаком и без знака
+  Library.cpp
+  Создание кода
+  283 of 286 functions (99.0%) were compiled, the rest were copied from previous compilation.
+    263 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Library.vcxproj -> C:\Users\HP\Desktop\Lab3v\Library\Release\Library.exe
+  Library.vcxproj -> C:\Users\HP\Desktop\Lab3v\Library\Release\Library.pdb (Full PDB)

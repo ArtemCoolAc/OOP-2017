@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="QtGui">
+    <file>Guard.jpg</file>
+    <file>Transport.jpg</file>
+    <file>Warship.jpg</file>
+    <file>Sea.jpg</file>
+    <file>Start.jpg</file>
+    <file>Ship.jpg</file>
+    <file>Convoy.jpg</file>
+    <file>Back.jpg</file>
+  </qresource>
+</RCC>

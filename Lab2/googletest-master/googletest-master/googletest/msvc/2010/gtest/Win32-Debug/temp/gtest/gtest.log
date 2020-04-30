@@ -1,0 +1,13 @@
+﻿Build started 03.10.2017 13:06:52.
+     1>Project "D:\USERS\Б16-503\Kutuzov\Lab2\googletest-master\googletest-master\googletest\msvc\2010\gtest.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.. /I..\include /I..\..\include /I..\.. /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _VARIADIC_MAX=10 /D _DEBUG /D _LIB /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\USERS\Б16-503\Kutuzov\Lab2\googletest-master\googletest-master\googletest\msvc\2010\gtest\Win32-Debug\temp\gtest\\" /Fd"D:\USERS\Б16-503\Kutuzov\Lab2\googletest-master\googletest-master\googletest\msvc\2010\gtest\Win32-Debug\temp\gtest\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\src\gtest-all.cc"
+         gtest-all.cc
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"D:\USERS\Б16-503\Kutuzov\Lab2\googletest-master\googletest-master\googletest\msvc\2010\gtest\Win32-Debug\gtestd.lib" /NOLOGO "D:\USERS\Б16-503\Kutuzov\Lab2\googletest-master\googletest-master\googletest\msvc\2010\gtest\Win32-Debug\temp\gtest\gtest-all.obj"
+         gtest.vcxproj -> D:\USERS\Б16-503\Kutuzov\Lab2\googletest-master\googletest-master\googletest\msvc\2010\gtest\Win32-Debug\gtestd.lib
+     1>Done Building Project "D:\USERS\Б16-503\Kutuzov\Lab2\googletest-master\googletest-master\googletest\msvc\2010\gtest.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.84

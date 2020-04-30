@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  Application.cpp
+Library.lib(Diagram.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в Application.obj
+Library.lib(Diagram.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MTd_StaticDebug" не соответствует значению "MT_StaticRelease" в Application.obj
+Library.lib(Diagram.obj) : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:ICF"
+libcpmtd.lib(stdthrow.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в Application.obj
+libcpmtd.lib(stdthrow.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MTd_StaticDebug" не соответствует значению "MT_StaticRelease" в Application.obj
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMTD" противоречит использованию других библиотек; используйте параметр /NODEFAULTLIB:library
+Library.lib(Diagram.obj) : error LNK2001: неразрешенный внешний символ "__calloc_dbg"
+Library.lib(Diagram.obj) : error LNK2001: неразрешенный внешний символ "__free_dbg"
+Library.lib(Diagram.obj) : error LNK2001: неразрешенный внешний символ "__malloc_dbg"
+Library.lib(Diagram.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+libcpmtd.lib(stdthrow.obj) : error LNK2001: неразрешенный внешний символ "__CrtDbgReportW"
+C:\Users\HP\Desktop\Lab3v\Library\Release\Application.exe : fatal error LNK1120: неразрешенных внешних элементов: 4
